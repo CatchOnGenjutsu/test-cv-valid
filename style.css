@@ -1,0 +1,18 @@
+
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+img  {
+    max-height: 200px;
+}
+
+section p {
+    font-weight: bold;
+}
+
+textarea {
+    max-width: 100%;
+}
