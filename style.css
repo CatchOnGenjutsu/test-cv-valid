@@ -30,12 +30,14 @@ textarea {
 }
 
 .codelist {
-    margin-bottom: 16px;
     font-weight: 550;
 }
 
 .code {
     border: 1px solid #000;
     border-radius: 25px;
+    margin-bottom: 16px;
+    font-weight: 400;
+    margin-top: 16px;
     margin-bottom: 16px;
 }
