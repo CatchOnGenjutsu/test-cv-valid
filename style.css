@@ -61,3 +61,7 @@ textarea {
 footer {
   margin-bottom: 40px; 
   }
+  
+img {
+  max-height: 40px;
+}
